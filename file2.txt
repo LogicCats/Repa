@@ -1,2 +1,3 @@
 New changes
 Additional change in file2
+Additional change in file2 for some reason
